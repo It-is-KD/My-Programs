@@ -1,4 +1,4 @@
-  .java linguist-detectable=false
-  .python linguist-detectable=false
-  .c linguist-detectable=false
-  .c++ linguist-detectable=false
+  .java linguist-detectable=true
+  .python linguist-detectable=true
+  .c linguist-detectable=true
+  .c++ linguist-detectable=true
